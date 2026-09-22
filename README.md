@@ -17,8 +17,8 @@ The thread connecting my work is simple: combine domain evidence with machine le
 
 ### AI tooling
 
-- **[deck-builder](https://github.com/jamesyoung93/deck-builder)**: structured, LLM-assisted generation of editable PowerPoint presentations.
 - **[Insight Harness](https://github.com/jamesyoung93/insight_harness)**: a governed analytics workbench that keeps metric computation deterministic while using language models only for bounded translation and narration.
+- **[deck-builder](https://github.com/jamesyoung93/deck-builder)**: structured, LLM-assisted generation of editable PowerPoint presentations.
 - **[AI2Analytics](https://github.com/jamesyoung93/AI2Analytics)**: reusable analytical pipelines with AI-assisted data discovery, configuration, and adapter generation.
 
 ## Elsewhere
